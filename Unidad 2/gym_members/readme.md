@@ -1,6 +1,6 @@
 # About Dataset
 
-This dataset contains **973 samples** of gym data, including heart rate, calories burned, and workout duration.
+This dataset contains **973 samples** detailing **gym members' exercise routines, physical attributes, and fitness metrics** (such as heart rate, calories burned, and workout duration) alongside demographic data and experience levels for analyzing fitness patterns and health trends.
 
 ## Key Features
 
