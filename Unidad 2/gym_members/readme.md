@@ -20,6 +20,6 @@ This dataset contains **973 samples** of gym data, including heart rate, calorie
 - **Experience_Level:** Experience level from 1 to 3.
 - **BMI:** Body Mass Index calculated from height and weight.
 
-## Applications of the Dataset
+## Overview
 
-This dataset can be used to analyze exercise habits, fitness progression, and relationships between demographic and physiological variables.
+Ideal for data scientists and researchers studying exercise habits, progression, or physiological relationships to understand factors affecting workout intensity and health.
